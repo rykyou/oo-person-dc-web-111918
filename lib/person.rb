@@ -1,6 +1,6 @@
 # your code goes here
 require "pry"
-
+ 
 class Person
   attr_accessor :bank_account, :happiness, :hygiene
   attr_reader :name
