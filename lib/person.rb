@@ -72,6 +72,3 @@ class Person
   end
 
 end
-
-# binding.pry
-# puts "foo"
